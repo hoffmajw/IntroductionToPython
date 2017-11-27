@@ -13,7 +13,7 @@ print('Hello, World')
 
 ########################################################################
 #
-# TODO: 1.
+# Done
 #   (Yes, that means for YOU to DO things per these instructions:)
 #
 #   Run this module by right clicking anywhere in this window and select
@@ -26,7 +26,7 @@ print('Hello, World')
 
 ########################################################################
 #
-# TODO: 2.
+# Done
 #   Notice the small horizontal BLUE bars on the scrollbar-like thing
 #   on the right.  Each blue bar indicates a TO DO in this module.
 #
@@ -51,7 +51,7 @@ print('Hello, World')
 
 ########################################################################
 #
-# TODO: 3.
+# Done
 #   Add another   print   statement below.
 #   It should print any string that you want (but keep it G-rated!)
 #   Test your code by re-running this module using either the right click
@@ -59,7 +59,7 @@ print('Hello, World')
 #   Look at the Console to be sure that your string printed as expected.
 #
 ########################################################################
-
+print('CSSE120')
 ########################################################################
 #
 # TODO: 4.
@@ -73,10 +73,10 @@ print('Hello, World')
 #   (HINT: It is an INTERESTING number.)  Get help if your value is wrong.
 #
 ########################################################################
-
+print(3607 * 34227)
 ########################################################################
 #
-# TODO: 5.
+# Done
 #   Look at the list of files in this project to the left.
 #   Note that this file (m2_hello_world.py) is now displayed in a blue
 #   font color (if the file is highlighted select a different file so yu can
